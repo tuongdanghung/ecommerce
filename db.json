@@ -1,0 +1,46 @@
+{
+    "product": [
+        {
+            "id": 1,
+            "name": "Macbooks",
+            "image": "https://news.hanoicomputer.vn/wp-content/uploads/2020/12/GfinEMFXnT42BFxAcDc2rA-1024x576.jpg",
+            "description": "MacBook Pro 16 inch sở hữu màn hình Retina 16 inch, bàn phím Magic Keyboard theo cơ chế cắt kéo mới, hệ thống âm thanh 6 loa với độ trung thực cao và một thiết kế nhiệt tiên tiến. Card đồ họa AMD Radeon Pro 5500M cung cấp nhiều khả năng cho người dùng chuyên nghiệp. Ngoài ra với bộ nhớ tốc độ cao, các tác vụ nặng và phức tạp về GPU sẽ được thực hiện một cách nhẹ nhàng hơn với MacBook Pro 16 inch.",
+            "price": 5000
+        },
+        {
+            "id": 2,
+            "name": " M1",
+            "image": "https://genk.mediacdn.vn/139269124445442048/2020/11/20/photo-1-16058408470821122635770.jpg",
+            "description": "Tốc độ và sức mạnh hoàn hảo trong một thân máy nhỏ gọn. MacBook Pro M1 13 inch 2020 Touch Bar mới với bộ vi xử lý Apple M1 cho bạn hiệu suất và thời lượng pin tuyệt vời nhất từ trước đến nay, mang đến hiệu năng chuyên nghiệp để hoàn thành những công việc chuyên nghiệp.",
+            "price": 4000
+        },
+        {
+            "id": 3,
+            "name": "vivo",
+            "image": "https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/asus-vivobook-15-1515EP-5.jpg",
+            "description": "Core i7-1165G7 có xung nhịp cơ bản 2.8 GHz, xung nhịp tăng 4.7 GHz và bộ nhớ đệm 12 MB, trong khi Core i5 - 1135G có xung nhịp cơ bản 2.4 GHz, xung nhịp tăng 4.2 GHz và 8 MB bộ nhớ đệm L3. Trong hai lựa chọn, chỉ có Core i7 - 1165G7 được trang bị bộ xử lý hình ảnh (IPU).",
+            "price": 3000
+        },
+        {
+            "id": 4,
+            "name": "Asus",
+            "image": "https://cdn.alzashop.com/ImgW.ashx?fd=f16&cd=NA567i01",
+            "description": "Được xem là đối thủ của Macbook 2016, Asus Zenbook UX330UA-FC049T i5 6200U có sự dung hòa về cả vóc dáng, tính năng và sức mạnh. Tất cả, đều ở mức đáng nể và xuất sắc. Dòng sản phẩm thế hệ mới của Asus Zenbook này hướng đến tính năng làm việc, giải trí tốt khi kết hợp công nghệ âm thanh harman/kardon, tích hợp đầy đủ các cổng kết nối.",
+            "price": 2000
+        },
+        {
+            "id": 5,
+            "name": "Dell",
+            "image": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/12/9/637431273747646316_dell-vostro-v5502-xam-1.png",
+            "description": "Laptop Dell XPS có thiết kế mỏng nhẹ của dòng ultrabook, thân máy được gia công từ nhôm  kèm theo cấu tạo với sợi carbon và bảo vệ bằng kính Corning Gorilla Glass vừa tăng độ bền vừa khiến máy trở nên sang trọng hơn. Với độ dày chỉ 14.35 mm, trọng lượng 1.32 kg, Dell XPS hoàn toàn không gây trở ngại khi di chuyển. ",
+            "price": 1000
+        },
+        {
+            "id": 6,
+            "name": "HP",
+            "image": "https://phucanhcdn.com/media/product/38301_",
+            "description": "Laptop HP Envy được trang bị bộ xử lý Intel Core i7. Đây là chiếc laptop sở hữu CPU thế hệ 11, lõi tứ 8 luồng cho xung nhịp trung bình 2.80 GHz ở các công việc văn phòng như Word, Excel, Powerpoint và xung nhịp tối đa lên đến 4.7 GHz với các tác vụ hạng nặng như: Photoshop, Adobe Premiere nhờ công nghệ Turbo Boost, mang đến hiệu năng mạnh mẽ đảm bảo xử lý tốt các công việc của bạn.",
+            "price": 6000
+        }
+    ]
+}

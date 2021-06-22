@@ -1,0 +1,20 @@
+a {
+    margin: 0 5px 10px 15px !important;
+    outline: none !important;
+    .MuiButton-label {
+        padding: 10px;
+        i {
+            font-size: 30px;
+        }
+    }
+}
+.description {
+    display: -webkit-box;
+    max-width: 400px;
+    height: 63.2px;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 1.625;
+}

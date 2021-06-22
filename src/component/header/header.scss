@@ -1,0 +1,60 @@
+nav {
+    background: url(https://images.pexels.com/photos/4240497/pexels-photo-4240497.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260),
+        no-repeat, center;
+    width: 300px;
+    height: 100vh;
+    background-size: cover;
+    position: fixed;
+    top: 0;
+    left: 0;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    padding: 20px;
+    &:before {
+        content: "";
+        background: rgb(200, 200, 200);
+        background: radial-gradient(circle, rgba(200, 200, 200, 1) 0%, rgba(148, 187, 233, 0.03995101458552175) 100%);
+        width: 100%;
+        height: 100vh;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: -1;
+    }
+    .logo {
+        h1 {
+            text-shadow: 2px 3px 10px #130909;
+            color: #fff;
+            font-weight: 500;
+            font-size: 35px;
+            border-bottom: 1px solid #fff;
+            padding-bottom: 8px;
+        }
+    }
+    ul {
+        margin-top: 10px;
+        z-index: 1;
+        padding-left: 0;
+        li {
+            list-style: none;
+            color: #090909;
+            width: 100%;
+            i {
+                margin: 0 5px;
+                width: 20px;
+            }
+            a {
+                background-color: #ffffff85;
+                padding: 10px 20px;
+                display: block;
+                margin-bottom: 20px;
+                border-radius: 25px;
+                &:hover {
+                    text-decoration: none;
+                }
+                &.active {
+                    background: #fff;
+                }
+            }
+        }
+    }
+}
