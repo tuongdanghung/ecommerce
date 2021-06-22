@@ -1,0 +1,5 @@
+- clone link github về
+- cài đặt node modules
+- cài đặt json json server nếu máy chưa cài
+- vào thư mục chạy lệnh json-server --watch db.json để khởi động json-server
+- cuối cùng chạy chương trình
