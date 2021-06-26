@@ -30,7 +30,7 @@ class Product extends Component {
         if (data.length > 0) {
             result = data.map((product, index) => {
                 return (
-                    < Card key={index} className="muicard">
+                    < Card key={index} className="vlxx">
                         < CardActionArea >
                             < CardMedia className="classes-media"
                                 image={product.image}
